@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  TipYourWaiter
 //
-//  Created by DrDunkan on 12/30/15.
+//  Created by Asha Earle on 12/30/15.
 //  Copyright © 2015 Earle, inc. All rights reserved.
 //
 
